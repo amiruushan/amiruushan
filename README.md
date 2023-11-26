@@ -1,4 +1,4 @@
-### Hi there 👋
+### Amiru Ushan 👋
 
 <!--
 **amiruushan/amiruushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
